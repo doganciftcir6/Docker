@@ -1,0 +1,12 @@
+name: dockercompose838168596836582585
+services:
+  udemyconsoledocker:
+    build:
+      context: C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleDocker
+      dockerfile: UdemyConsoleDocker/Dockerfile
+    image: udemyconsoledocker
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose838168596836582585_default

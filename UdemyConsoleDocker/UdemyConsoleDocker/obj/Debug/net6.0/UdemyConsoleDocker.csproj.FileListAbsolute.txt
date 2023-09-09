@@ -1,0 +1,15 @@
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Debug/net6.0/UdemyConsoleDocker
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Debug/net6.0/UdemyConsoleDocker.deps.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Debug/net6.0/UdemyConsoleDocker.runtimeconfig.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Debug/net6.0/UdemyConsoleDocker.dll
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Debug/net6.0/UdemyConsoleDocker.pdb
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.csproj.AssemblyReference.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.AssemblyInfoInputs.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.AssemblyInfo.cs
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.csproj.CoreCompileInputs.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.dll
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/refint/UdemyConsoleDocker.dll
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.pdb
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/UdemyConsoleDocker.genruntimeconfig.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/obj/Debug/net6.0/ref/UdemyConsoleDocker.dll

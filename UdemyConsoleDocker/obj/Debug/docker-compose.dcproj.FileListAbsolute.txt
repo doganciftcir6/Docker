@@ -1,0 +1,8 @@
+/Users/doganciftci/Desktop/UdemyConsoleDocker/bin/Debug/UdemyConsoleDocker.deps.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/bin/Debug/UdemyConsoleDocker.runtimeconfig.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/bin/Debug/UdemyConsoleDocker
+/Users/doganciftci/Desktop/UdemyConsoleDocker/bin/Debug/UdemyConsoleDocker.dll
+/Users/doganciftci/Desktop/UdemyConsoleDocker/bin/Debug/UdemyConsoleDocker.pdb
+/Users/doganciftci/Desktop/UdemyConsoleDocker/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/doganciftci/Desktop/UdemyConsoleDocker/obj/Debug/docker-compose.dcproj.CopyComplete

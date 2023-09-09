@@ -1,0 +1,15 @@
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\UdemyConsoleAppW.exe
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\UdemyConsoleAppW.deps.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\UdemyConsoleAppW.runtimeconfig.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\UdemyConsoleAppW.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\UdemyConsoleAppW.pdb
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.csproj.AssemblyReference.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.AssemblyInfoInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.AssemblyInfo.cs
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.csproj.CoreCompileInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\refint\UdemyConsoleAppW.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.pdb
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\UdemyConsoleAppW.genruntimeconfig.cache
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\obj\Release\net6.0\ref\UdemyConsoleAppW.dll

@@ -1,0 +1,12 @@
+name: dockercompose4290276057726922678
+services:
+  udemyconsoledocker:
+    build:
+      context: /Users/doganciftci/Desktop/UdemyConsoleDocker
+      dockerfile: UdemyConsoleDocker/Dockerfile
+    image: udemyconsoledocker
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose4290276057726922678_default

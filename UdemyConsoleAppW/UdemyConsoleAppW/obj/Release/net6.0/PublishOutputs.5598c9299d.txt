@@ -1,0 +1,5 @@
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\publish\UdemyConsoleAppW.exe
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\publish\UdemyConsoleAppW.dll
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\publish\UdemyConsoleAppW.deps.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\publish\UdemyConsoleAppW.runtimeconfig.json
+C:\Users\dogan\OneDrive\Masaüstü\UdemyConsoleAppW\UdemyConsoleAppW\bin\Release\net6.0\publish\UdemyConsoleAppW.pdb

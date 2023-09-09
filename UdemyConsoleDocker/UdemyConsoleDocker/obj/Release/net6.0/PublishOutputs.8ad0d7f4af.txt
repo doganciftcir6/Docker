@@ -1,0 +1,5 @@
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Release/net6.0/publish/UdemyConsoleDocker
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Release/net6.0/publish/UdemyConsoleDocker.dll
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Release/net6.0/publish/UdemyConsoleDocker.deps.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Release/net6.0/publish/UdemyConsoleDocker.runtimeconfig.json
+/Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker/bin/Release/net6.0/publish/UdemyConsoleDocker.pdb

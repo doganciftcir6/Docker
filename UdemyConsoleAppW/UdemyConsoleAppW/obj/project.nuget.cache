@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRBzNmljpvFgrZ/cgXBpGK9duRCOrGetXxvtyuR7lJIvMC0IlDxj2/rgsqQu0cNvX0/h1ZOmlTNWk76efvA2Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dogan\\OneDrive\\Masaüstü\\UdemyConsoleAppW\\UdemyConsoleAppW\\UdemyConsoleAppW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

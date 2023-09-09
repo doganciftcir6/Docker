@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  udemyconsoledocker:
+    image: ${DOCKER_REGISTRY-}udemyconsoledocker
+    build:
+      context: .
+      dockerfile: UdemyConsoleDocker/Dockerfile

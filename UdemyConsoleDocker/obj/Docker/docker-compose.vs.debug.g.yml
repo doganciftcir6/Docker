@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  udemyconsoledocker:
+    image: udemyconsoledocker:dev
+    container_name: UdemyConsoleDocker
+    build:
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "UdemyConsoleDocker"
+    environment:
+      - NUGET_FALLBACK_PACKAGES=
+    volumes:
+      - /Users/doganciftci/Desktop/UdemyConsoleDocker/UdemyConsoleDocker:/app
+      - /Users/doganciftci/Desktop/UdemyConsoleDocker:/src
+      - /Users/doganciftci/vsdbg/vs2017u5:/remote_debugger:rw
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: "  \"/app/bin/Debug/net6.0/UdemyConsoleDocker.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CA660530-0FF7-4A59-AD30-55A362995297}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UdemyConsoleDocker/Dockerfile">
+    <Files>
+      <File FileName="UdemyConsoleDocker/Program.cs" Line="7" Column="41" />
+      <File FileName="UdemyConsoleDocker/Dockerfile" Line="2" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UdemyConsoleDocker" expanded="True" selected="True">
+            <Node name="UdemyConsoleDocker" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UdemyConsoleDocker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
